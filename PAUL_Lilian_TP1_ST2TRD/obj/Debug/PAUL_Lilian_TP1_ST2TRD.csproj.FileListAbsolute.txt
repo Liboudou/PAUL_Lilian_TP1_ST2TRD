@@ -1,0 +1,6 @@
+C:\Users\green\Documents\Trading C#\TP1_PAUL_Lilian\PAUL_Lilian_TP1_ST2TRD\bin\Debug\PAUL_Lilian_TP1_ST2TRD.exe
+C:\Users\green\Documents\Trading C#\TP1_PAUL_Lilian\PAUL_Lilian_TP1_ST2TRD\bin\Debug\PAUL_Lilian_TP1_ST2TRD.pdb
+C:\Users\green\Documents\Trading C#\TP1_PAUL_Lilian\PAUL_Lilian_TP1_ST2TRD\obj\Debug\PAUL_Lilian_TP1_ST2TRD.csprojAssemblyReference.cache
+C:\Users\green\Documents\Trading C#\TP1_PAUL_Lilian\PAUL_Lilian_TP1_ST2TRD\obj\Debug\PAUL_Lilian_TP1_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\green\Documents\Trading C#\TP1_PAUL_Lilian\PAUL_Lilian_TP1_ST2TRD\obj\Debug\PAUL_Lilian_TP1_ST2TRD.exe
+C:\Users\green\Documents\Trading C#\TP1_PAUL_Lilian\PAUL_Lilian_TP1_ST2TRD\obj\Debug\PAUL_Lilian_TP1_ST2TRD.pdb
